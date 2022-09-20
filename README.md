@@ -14,5 +14,5 @@ The ability of an object or function to take many forms. Achieved my either usin
 - #### Method Overloading/Compile
     Having multiple methods using the same name but have different parameters. Increasing readability.
 ### Abstraction
-A concept that hides internal details of an application, showing on the functionality.
-This is achieved through the process of using abstract classes.
+A concept that hides internal details of an application, showing only the functionality.
+This is achieved through the process of using abstract classes and interfaces.
